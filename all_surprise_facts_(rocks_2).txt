@@ -1,0 +1,58 @@
+Topic: Anthropic rock
+Anthropic rock is in the group Rocks :0.971504660688
+Anthropic rock is in the group Building materials :1.09358980328
+Anthropic rock is in the group Artificial stone :1.40044190495
+
+Topic: Bedrock
+Bedrock is in the group Geology stubs :0.970039151008
+Bedrock is in the group Rocks :1.11260701306
+Bedrock is in the group Petrology :1.17090905095
+
+Topic: Howard's Rock
+Howard's Rock is in the group Rocks :1.03786019417
+Howard's Rock is in the group Clemson Tigers :1.2530072649
+
+Topic: Lapis armenus
+Lapis armenus is in the group Gemstones :1.11175095444
+Lapis armenus is in the group Minerals :1.18273787706
+
+Topic: Magnesioferrite
+Magnesioferrite is in the group Spinel group :0.990356990245
+Magnesioferrite is in the group Minerals :1.02629182423
+Magnesioferrite is in the group Cubic minerals :1.03284267116
+Magnesioferrite is in the group Magnesium minerals :1.04989352598
+Magnesioferrite is in the group Oxide minerals :1.07338604175
+Magnesioferrite is in the group Iron minerals :1.09497724461
+Magnesioferrite is in the group Oxide mineral stubs :1.11198948351
+
+Topic: Montroydite
+Montroydite is in the group Mercury minerals :0.86255433478
+Montroydite is in the group Minerals :0.868939266377
+Montroydite is in the group Oxide mineral stubs :0.894124124187
+Montroydite is in the group Oxide minerals :0.920143661969
+
+Topic: Pyrophanite
+Pyrophanite is in the group Minerals :0.867168638857
+Pyrophanite is in the group Oxide mineral stubs :0.897770446537
+Pyrophanite is in the group Oxide minerals :0.9066159703
+Pyrophanite is in the group Manganese minerals :0.93326687877
+Pyrophanite is in the group Trigonal minerals :0.942513528992
+Pyrophanite is in the group Titanium minerals :0.94738640671
+
+Topic: Sailing stones
+Sailing stones is in the group Rocks :0.86349724691
+Sailing stones is in the group Earth mysteries :0.918533787905
+Sailing stones is in the group Rock formations of California :0.969783234175
+Sailing stones is in the group Stones :1.06243318149
+Sailing stones is in the group Death Valley National Park :1.12565551371
+Sailing stones is in the group Death Valley :1.15115284167
+Sailing stones is in the group Rock formations of Nevada :1.21291796036
+Sailing stones is in the group Natural history of the Mojave Desert :1.51583469554
+
+Topic: Thunderegg
+Thunderegg is in the group Igneous rocks :0.920709845847
+Thunderegg is in the group Symbols of Oregon :0.941938217222
+Thunderegg is in the group Minerals :1.03570978346
+Thunderegg is in the group Gemstones :1.04807351344
+Thunderegg is in the group Cascadian folklore :1.14295165105
+

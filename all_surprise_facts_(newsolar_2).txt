@@ -1,0 +1,40 @@
+Topic: Discovery and exploration of the Solar System
+Discovery and exploration of the Solar System is in the group Discovery and exploration of the Solar System :0.8604137465706412
+
+Topic: Giant planet
+Giant planet is in the group Types of planet :0.7554426381607646
+Giant planet is in the group Giant planets :1.1476136571666742
+
+Topic: Jupiter trojan
+Jupiter trojan is in the group Jupiter trojans :0.7410503059108794
+Jupiter trojan is in the group Trojan minor planets :0.9205096312418793
+
+Topic: Meteoroid
+Meteoroid is in the group Meteoroids :0.7435999288558796
+
+Topic: Minor planet
+Minor planet is in the group Minor planets :0.8012822196597968
+
+Topic: Moons of Mars
+Moons of Mars is in the group Moons of Mars :0.5901044399041416
+Moons of Mars is in the group Lists of moons :1.0174650699124426
+
+Topic: Rings of Jupiter
+Rings of Jupiter is in the group Planetary rings :0.8651425282471579
+Rings of Jupiter is in the group Jupiter :1.0654128091580153
+Rings of Jupiter is in the group Astronomical objects discovered in 1979 :2.2516224364060218
+
+Topic: Rings of Saturn
+Rings of Saturn is in the group Planetary rings :0.8271865689121326
+Rings of Saturn is in the group Rings of Saturn :0.8845585458627956
+Rings of Saturn is in the group Discoveries by Christiaan Huygens :1.0
+
+Topic: Solar System
+Solar System is in the group Solar System :0.7779511846089252
+Solar System is in the group Planetary science :0.7991562468599136
+Solar System is in the group Space science :0.8817193334978637
+Solar System is in the group Planetary systems with eight confirmed planets :1.0
+
+Topic: Terrestrial planet
+Terrestrial planet is in the group Types of planet :1.0
+
