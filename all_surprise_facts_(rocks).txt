@@ -1,0 +1,144 @@
+Topic: Abenakiite-(Ce)
+Abenakiite-(Ce) is in the group Sodium minerals :0.898915312502
+Abenakiite-(Ce) is in the group Silicate minerals :0.915897433641
+Abenakiite-(Ce) is in the group Trigonal minerals :0.91895054328
+Abenakiite-(Ce) is in the group Silicate mineral stubs :0.92729914146
+Abenakiite-(Ce) is in the group Phosphate minerals :0.94951430504
+Abenakiite-(Ce) is in the group Lanthanide minerals :0.949541793809
+Abenakiite-(Ce) is in the group Cerium minerals :1.00454819963
+Abenakiite-(Ce) is in the group Carbonate minerals :1.01258932134
+
+Topic: Actinolite
+Actinolite is in the group Gemstones :0.875249185433
+Actinolite is in the group Amphibole group :0.912839513551
+Actinolite is in the group Magnesium minerals :0.91887729865
+Actinolite is in the group Inosilicates :0.924761524476
+Actinolite is in the group Iron minerals :0.956683343466
+Actinolite is in the group Calcium minerals :0.976826898197
+Actinolite is in the group Monoclinic minerals :0.985556913105
+Actinolite is in the group Asbestos :1.11859369202
+
+Topic: Aerinite
+Aerinite is in the group Inosilicates :0.89743443392
+Aerinite is in the group Silicate mineral stubs :0.898620861697
+Aerinite is in the group Magnesium minerals :0.919334422308
+Aerinite is in the group Calcium minerals :0.929018206875
+Aerinite is in the group Iron minerals :0.929524602835
+Aerinite is in the group Monoclinic minerals :0.966810032198
+Aerinite is in the group Carbonate minerals :1.00993851777
+
+Topic: Aeschynite-(Y)
+Aeschynite-(Y) is in the group Niobium minerals :0.990542677329
+Aeschynite-(Y) is in the group Titanium minerals :1.0080128678
+Aeschynite-(Y) is in the group Calcium minerals :1.00936276095
+Aeschynite-(Y) is in the group Minerals :1.04661047886
+Aeschynite-(Y) is in the group Oxide mineral stubs :1.06577130986
+Aeschynite-(Y) is in the group Iron minerals :1.08194307867
+Aeschynite-(Y) is in the group Yttrium minerals :1.08362177847
+Aeschynite-(Y) is in the group Thorium minerals :1.08472588288
+Aeschynite-(Y) is in the group Oxide minerals :1.1389760333
+Aeschynite-(Y) is in the group Lanthanide minerals :1.15613442839
+Aeschynite-(Y) is in the group Orthorhombic minerals :1.162451209
+
+Topic: Afwillite
+Afwillite is in the group Hydrates :0.87488142035
+Afwillite is in the group Calcium minerals :0.992809768355
+Afwillite is in the group Nesosilicates :0.999824839613
+Afwillite is in the group Monoclinic minerals :1.05109596521
+Afwillite is in the group Cement :1.13654499115
+Afwillite is in the group  California :1.45422047863
+Afwillite is in the group Concrete :1.46094273836
+
+Topic: Allanite
+Allanite is in the group Yttrium minerals :0.825123960907
+Allanite is in the group Epidote group :0.834358408847
+Allanite is in the group Lanthanide minerals :0.873970950843
+Allanite is in the group Iron minerals :0.922529009953
+Allanite is in the group Calcium minerals :0.925541591585
+Allanite is in the group Monoclinic minerals :0.935828110032
+Allanite is in the group Aluminium minerals :0.950831613017
+
+Topic: Alsakharovite-Zn
+Alsakharovite-Zn is in the group Niobium minerals :0.823773320715
+Alsakharovite-Zn is in the group Cyclosilicates :0.875216457403
+Alsakharovite-Zn is in the group Titanium minerals :0.887843781581
+Alsakharovite-Zn is in the group Silicate mineral stubs :0.895102202856
+Alsakharovite-Zn is in the group Sodium minerals :0.952177520058
+Alsakharovite-Zn is in the group Strontium minerals :0.965622989886
+Alsakharovite-Zn is in the group Potassium minerals :1.02070864295
+Alsakharovite-Zn is in the group Monoclinic minerals :1.02356690488
+Alsakharovite-Zn is in the group Zinc minerals :1.05855062032
+
+Topic: Aluminium
+Aluminium is in the group Aluminium :0.742853393074
+Aluminium is in the group Electrical conductors :0.882518862927
+Aluminium is in the group Pyrotechnic fuels :0.882829766142
+Aluminium is in the group Reducing agents :0.941970518733
+Aluminium is in the group Post-transition metals :0.972436535469
+Aluminium is in the group Airship technology :0.99026151265
+Aluminium is in the group Chemical elements :1.00643082572
+Aluminium is in the group Rocket fuels :1.31236427325
+
+Topic: Alunite
+Alunite is in the group Industrial minerals :0.844831834396
+Alunite is in the group Potassium minerals :0.845252145337
+Alunite is in the group Sulfate minerals :0.882529198973
+Alunite is in the group Trigonal minerals :0.888045653039
+Alunite is in the group Luminescent minerals :0.908197412638
+Alunite is in the group Aluminium minerals :0.925235161405
+Alunite is in the group Alunite group :0.928226175497
+Alunite is in the group Alunite :1.0
+
+Topic: Ankerite
+Ankerite is in the group Calcium minerals :0.895069706684
+Ankerite is in the group Magnesium minerals :0.895211801263
+Ankerite is in the group Iron minerals :0.895998777498
+Ankerite is in the group Carbonate minerals :0.903973150201
+Ankerite is in the group Luminescent minerals :0.950266723101
+Ankerite is in the group Trigonal minerals :0.951315544702
+Ankerite is in the group Dolomite group :0.97198884951
+Ankerite is in the group Manganese minerals :1.00518701353
+
+Topic: Armalcolite
+Armalcolite is in the group Magnesium minerals :0.859135861088
+Armalcolite is in the group Iron minerals :0.864790920545
+Armalcolite is in the group Titanium minerals :0.874763308684
+Armalcolite is in the group Orthorhombic minerals :0.93470346104
+Armalcolite is in the group Oxide minerals :0.936802485742
+Armalcolite is in the group Apollo 11 :1.72435716928
+
+Topic: Arsenic
+Arsenic is in the group Suspected testicular toxicants :0.747557961778
+Arsenic is in the group Endocrine disruptors :0.766733036101
+Arsenic is in the group IARC Group 1 carcinogens :0.769558289511
+Arsenic is in the group Arsenic :0.829015736421
+Arsenic is in the group Pnictogens :0.884290125406
+Arsenic is in the group Biology and pharmacology of chemical elements :0.909066150572
+Arsenic is in the group Teratogens :0.976986597884
+Arsenic is in the group Native element minerals :1.0534066525
+Arsenic is in the group Fetotoxicants :1.06243776244
+Arsenic is in the group Hepatotoxins :1.06267407645
+Arsenic is in the group Metalloids :1.0958782206
+Arsenic is in the group Chemical elements :1.10378713811
+Arsenic is in the group Trigonal minerals :1.27692052036
+
+Topic: Axinite
+Axinite is in the group Gemstones :1.04586015381
+Axinite is in the group Manganese minerals :1.10281699227
+Axinite is in the group Sorosilicates :1.10382725816
+Axinite is in the group Aluminium minerals :1.11305931158
+Axinite is in the group Triclinic minerals :1.12644593962
+Axinite is in the group Iron minerals :1.1457990629
+Axinite is in the group Calcium minerals :1.19882640286
+Axinite is in the group Luminescent minerals :1.23628430017
+
+Topic: Illite
+Illite is in the group Clay minerals group :0.830390168302
+Illite is in the group Medicinal clay :0.842584060869
+Illite is in the group Aluminosilicates :0.903134985285
+Illite is in the group Potassium minerals :0.943516896026
+Illite is in the group Magnesium minerals :0.971429594894
+Illite is in the group Aluminium minerals :1.01476024651
+Illite is in the group Monoclinic minerals :1.02836258539
+Illite is in the group Mica group :1.07235468767
+

@@ -1,0 +1,134 @@
+Topic: 2 Pallas
+2 Pallas is in the group Former dwarf planet candidates :0.819713494818
+2 Pallas is in the group Objects observed by stellar occultation :0.842558360023
+2 Pallas is in the group Minor planets named from Greek mythology :0.928056079907
+2 Pallas is in the group Astronomical objects discovered in 1802 :1.0
+2 Pallas is in the group Numbered minor planets :1.00342698194
+2 Pallas is in the group Palladian asteroids :1.74200171647
+2 Pallas is in the group Named minor planets :2.26802141324
+2 Pallas is in the group Main-belt asteroids :2.58769250108
+
+Topic: 2013 ND15
+2013 ND15 is in the group Astronomical objects discovered in 2013 :0.88210994996
+2013 ND15 is in the group Aten asteroids :0.886695184051
+2013 ND15 is in the group Co-orbital minor planets :0.915252772297
+2013 ND15 is in the group Venus-crosser asteroids :0.934913299344
+2013 ND15 is in the group Earth-crosser asteroids :0.954564036611
+2013 ND15 is in the group Unnumbered minor planets :0.959226956611
+2013 ND15 is in the group Venus trojans :1.0
+
+Topic: 2060 Chiron
+2060 Chiron is in the group  Kowal :0.90226271052
+2060 Chiron is in the group Minor planets named from Greek mythology :0.918825205833
+2060 Chiron is in the group Comets :0.935905409471
+2060 Chiron is in the group Periodic comets :0.945565622618
+2060 Chiron is in the group Possible dwarf planets :0.959604134593
+2060 Chiron is in the group Numbered minor planets :1.03218345568
+2060 Chiron is in the group Named minor planets :1.82216790125
+2060 Chiron is in the group Astronomical objects discovered in 1977 :2.09473859203
+
+Topic: 3 Juno
+3 Juno is in the group Objects observed by stellar occultation :0.874923951543
+3 Juno is in the group Minor planets named from Roman mythology :0.88639224905
+3 Juno is in the group Astronomical objects discovered in 1804 :1.0
+3 Juno is in the group Numbered minor planets :1.02724909758
+3 Juno is in the group Named minor planets :2.41546027637
+3 Juno is in the group Junonian asteroids :3.87376457296
+
+Topic: 4 Vesta
+4 Vesta is in the group 4 Vesta :0.736522578093
+4 Vesta is in the group Former dwarf planet candidates :0.745341094721
+4 Vesta is in the group Minor planets visited by spacecraft :0.868136977262
+4 Vesta is in the group Minor planets named from Roman mythology :0.883346724599
+4 Vesta is in the group Former dwarf planets :0.925616668647
+4 Vesta is in the group Astronomical objects discovered in 1807 :1.0
+4 Vesta is in the group Numbered minor planets :1.07480243353
+4 Vesta is in the group Vestian asteroids :1.45416465199
+4 Vesta is in the group Named minor planets :1.81516463703
+
+Topic: Ceres (dwarf planet)
+Ceres (dwarf planet) is in the group Minor planets visited by spacecraft :0.899947498593
+Ceres (dwarf planet) is in the group Minor planets named from Roman mythology :0.932460227919
+Ceres (dwarf planet) is in the group Discoveries by Giuseppe Piazzi :1.0
+Ceres (dwarf planet) is in the group Objects observed by stellar occultation :1.02325220912
+Ceres (dwarf planet) is in the group Numbered minor planets :1.09212297376
+Ceres (dwarf planet) is in the group Astronomical objects discovered in 1801 :1.159867616
+Ceres (dwarf planet) is in the group Named minor planets :2.31670296151
+Ceres (dwarf planet) is in the group Main-belt asteroids :2.70502597502
+
+Topic: Dysnomia (moon)
+Dysnomia (moon) is in the group Discoveries by Chad Trujillo :0.97929138406
+Dysnomia (moon) is in the group Moons of dwarf planets :1.0
+Dysnomia (moon) is in the group  Brown :1.00033215418
+Dysnomia (moon) is in the group  Rabinowitz :1.07000577459
+Dysnomia (moon) is in the group Astronomical objects discovered in 2005 :2.04666221104
+
+Topic: Eris (dwarf planet)
+Eris (dwarf planet) is in the group Plutoids :0.82073804817
+Eris (dwarf planet) is in the group  Brown :0.858337221846
+Eris (dwarf planet) is in the group Discoveries by Chad Trujillo :0.878007554599
+Eris (dwarf planet) is in the group  Rabinowitz :0.903096974336
+Eris (dwarf planet) is in the group s planethood :0.906383677912
+Eris (dwarf planet) is in the group Scattered disc and detached objects :0.973148627467
+Eris (dwarf planet) is in the group Binary trans-Neptunian objects :1.03394813846
+Eris (dwarf planet) is in the group Minor planets named from Greek mythology :1.08272849342
+Eris (dwarf planet) is in the group Objects observed by stellar occultation :1.13262916091
+Eris (dwarf planet) is in the group Numbered minor planets :1.25110749354
+Eris (dwarf planet) is in the group Astronomical objects discovered in 2005 :1.94617548685
+Eris (dwarf planet) is in the group Named minor planets :2.12487748131
+
+Topic: Haumea
+Haumea is in the group Haumea family :0.850893950157
+Haumea is in the group Discoveries by Chad Trujillo :0.865156067609
+Haumea is in the group  Brown :0.873524948945
+Haumea is in the group Planetary rings :0.883318533085
+Haumea is in the group  Rabinowitz :0.925401469758
+Haumea is in the group Trans-Neptunian objects :0.941238145601
+Haumea is in the group Plutoids :0.980108742894
+Haumea is in the group Minor planets named from Hawaiian mythology :1.0
+Haumea is in the group Objects observed by stellar occultation :1.10116501992
+Haumea is in the group Numbered minor planets :1.13759962512
+Haumea is in the group Named minor planets :1.74743783911
+Haumea is in the group Astronomical objects discovered in 2004 :2.12924147348
+
+Topic: Hills cloud
+Hills cloud is in the group Trans-Neptunian region :0.84811976141
+Hills cloud is in the group Hypothetical trans-Neptunian objects :0.890710275687
+Hills cloud is in the group Minor planets :0.958635889146
+Hills cloud is in the group Astronomical hypotheses :0.985230339247
+Hills cloud is in the group Comets :0.98942202338
+Hills cloud is in the group Inner Oort cloud :1.09141257744
+Hills cloud is in the group Circumstellar disks :1.31352937256
+
+Topic: Makemake
+Makemake is in the group Plutoids :0.864558826463
+Makemake is in the group  Brown :0.882041602202
+Makemake is in the group Discoveries by Chad Trujillo :0.92156355341
+Makemake is in the group  Rabinowitz :0.931169397153
+Makemake is in the group Classical Kuiper belt objects :0.938383109515
+Makemake is in the group Makemake :1.0
+Makemake is in the group Minor planets named from mythology :1.04042256064
+Makemake is in the group Objects observed by stellar occultation :1.09764107328
+Makemake is in the group Numbered minor planets :1.21960834485
+Makemake is in the group Astronomical objects discovered in 2005 :2.15208126443
+Makemake is in the group Named minor planets :2.53352119841
+
+Topic: Oort cloud
+Oort cloud is in the group Trans-Neptunian region :0.739930207432
+Oort cloud is in the group Jan Oort :0.787541349749
+Oort cloud is in the group Oort cloud :0.823778902009
+Oort cloud is in the group Hypothetical trans-Neptunian objects :0.84606504474
+Oort cloud is in the group Minor planets :0.886708923322
+Oort cloud is in the group Astronomical hypotheses :0.957434488888
+Oort cloud is in the group Comets :0.99253179203
+Oort cloud is in the group Discoveries by Jan Oort :1.0
+
+Topic: Pluto
+Pluto is in the group Pluto :0.748428181928
+Pluto is in the group Minor planets named from Roman mythology :1.06429921839
+Pluto is in the group Astronomical objects discovered in 1930 :1.20748840655
+Pluto is in the group Numbered minor planets :1.21463148098
+Pluto is in the group Minor planets visited by spacecraft :1.21549640739
+Pluto is in the group Named minor planets :2.06730391322
+Pluto is in the group Discoveries by Clyde Tombaugh :2.58048905279
+
